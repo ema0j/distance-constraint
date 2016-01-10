@@ -1,0 +1,10 @@
+### Constrained Dynamics Simulation ###
+2015. 1
+
+. Simulate solving distance constraint in rigid body dynamics using Jacobi iteration
+. Visualization with simiple OpenGL
+
+# Dependencies
+VS2013
+OpenGL
+Eigen
